@@ -1,0 +1,13 @@
+categories:-  Books, Instruments, Other(table,chair,room accessories)
+
+push notification(product viewed)
+
+search based on category(book,instruments,other),state(dropdown),city(dropdown)
+
+listing of products
+
+product detail(name,price,description,state,city,contact detail(email,phone no.),product photos,date,category)
+
+wishlist tab(listing)
+
+add product (name,description,4pic,state(dropdown),city(dropdown),contact detail,price,category)

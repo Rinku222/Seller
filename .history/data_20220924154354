@@ -1,0 +1,5 @@
+categories:-  Books, Instruments, Other
+
+push notification(product viewed)
+
+search based on category(book,instruments,other),state(dropdown),city(dropdown)
